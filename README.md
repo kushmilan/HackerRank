@@ -1,2 +1,2 @@
-# Problem-Solving
-Solutions to problems from various online judges / contest sites.
+# HackerRank Problem-Solving solutions
+Solutions to problems from hackerrank.com.
